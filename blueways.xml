@@ -337,11 +337,11 @@
     <graph_editor>
       <ThemeGraphEditor grid="#12181b"
                         frame_current="#740000"
-                        window_sliders="#413129"
-                        channels_region="#493c37"
+                        window_sliders="#0d1011"
+                        channels_region="#0d1011"
                         dopesheet_channel="#1d2d42"
                         dopesheet_subchannel="#490b07"
-                        channel_group="#140000"
+                        channel_group="#000f14"
                         active_channels_group="#150704"
                         vertex="#ffae7e"
                         vertex_select="#f49600"
@@ -387,7 +387,7 @@
           </ThemeSpaceGeneric>
         </space>
         <space_list>
-          <ThemeSpaceListGeneric list="#2c2624"
+          <ThemeSpaceListGeneric list="#0d1011"
                                  list_title="#8faab2"
                                  list_text="#8faab2"
                                  list_text_hi="#f47421">
