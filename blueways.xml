@@ -240,13 +240,13 @@
     <view_3d>
       <ThemeView3D grid="#121d22"
                    wire="#314858"
-                   wire_edit="#4d6371"
+                   wire_edit="#1c5272"
                    gp_vertex="#414141"
                    gp_vertex_select="#50681a"
                    gp_vertex_size="3"
-                   lamp="#00978d28"
+                   lamp="#00b1a528"
                    speaker="#3f647a"
-                   camera="#337066"
+                   camera="#1e927f"
                    view_overlay="#c2004a"
                    empty="#444d58"
                    object_selected="#114b6f"
@@ -265,8 +265,8 @@
                    edge_facesel="#50899b"
                    freestyle_edge_mark="#3ac63a"
                    face="#ff99001a"
-                   face_select="#f4742140"
-                   face_dot="#ff8500"
+                   face_select="#f4a02140"
+                   face_dot="#ff9900"
                    facedot_size="3"
                    freestyle_face_mark="#4ace4a33"
                    nurb_uline="#909000"
@@ -1149,9 +1149,9 @@
     <panel_title>
       <ThemeFontStyle points="12"
                       font_kerning_style="FITTED"
-                      shadow="0"
-                      shadow_offset_x="0"
-                      shadow_offset_y="0"
+                      shadow="1"
+                      shadow_offset_x="1"
+                      shadow_offset_y="-1"
                       shadow_alpha="0.8"
                       shadow_value="5.96046e-08">
       </ThemeFontStyle>
@@ -1159,9 +1159,9 @@
     <widget_label>
       <ThemeFontStyle points="11"
                       font_kerning_style="FITTED"
-                      shadow="0"
-                      shadow_offset_x="0"
-                      shadow_offset_y="0"
+                      shadow="1"
+                      shadow_offset_x="1"
+                      shadow_offset_y="-1"
                       shadow_alpha="0.8"
                       shadow_value="0">
       </ThemeFontStyle>
@@ -1169,9 +1169,9 @@
     <widget>
       <ThemeFontStyle points="11"
                       font_kerning_style="FITTED"
-                      shadow="0"
-                      shadow_offset_x="0"
-                      shadow_offset_y="0"
+                      shadow="1"
+                      shadow_offset_x="1"
+                      shadow_offset_y="-1"
                       shadow_alpha="0.8"
                       shadow_value="0">
       </ThemeFontStyle>
