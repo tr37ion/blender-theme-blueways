@@ -84,13 +84,13 @@
         <wcol_num>
           <ThemeWidgetColors outline="#0f1213"
                              inner="#253f4eff"
-                             inner_sel="#253f4eff"
+                             inner_sel="#3b657dff"
                              item="#396179ff"
                              text="#789aaf"
                              text_sel="#9bc3db"
                              show_shaded="TRUE"
-                             shadetop="-37"
-                             shadedown="-20">
+                             shadetop="-47"
+                             shadedown="-18">
           </ThemeWidgetColors>
         </wcol_num>
         <wcol_numslider>
@@ -106,15 +106,15 @@
           </ThemeWidgetColors>
         </wcol_numslider>
         <wcol_box>
-          <ThemeWidgetColors outline="#0f1213"
+          <ThemeWidgetColors outline="#0f1113"
                              inner="#192933ff"
-                             inner_sel="#253f4eff"
+                             inner_sel="#253d4eff"
                              item="#252b2eff"
                              text="#789aaf"
                              text_sel="#9bc3db"
                              show_shaded="TRUE"
-                             shadetop="-13"
-                             shadedown="7">
+                             shadetop="-5"
+                             shadedown="8">
           </ThemeWidgetColors>
         </wcol_box>
         <wcol_menu>
@@ -240,13 +240,13 @@
     <view_3d>
       <ThemeView3D grid="#121d22"
                    wire="#314858"
-                   wire_edit="#1c5272"
+                   wire_edit="#4d6371"
                    gp_vertex="#414141"
                    gp_vertex_select="#50681a"
                    gp_vertex_size="3"
-                   lamp="#00b1a528"
+                   lamp="#00978d28"
                    speaker="#3f647a"
-                   camera="#1e927f"
+                   camera="#337066"
                    view_overlay="#c2004a"
                    empty="#444d58"
                    object_selected="#114b6f"
@@ -265,8 +265,8 @@
                    edge_facesel="#50899b"
                    freestyle_edge_mark="#3ac63a"
                    face="#ff99001a"
-                   face_select="#f4a02140"
-                   face_dot="#ff9900"
+                   face_select="#f4742140"
+                   face_dot="#ff8500"
                    facedot_size="3"
                    freestyle_face_mark="#4ace4a33"
                    nurb_uline="#909000"
@@ -764,7 +764,7 @@
       <ThemeNodeEditor gp_vertex="#8b2c46"
                        gp_vertex_select="#9b4f65"
                        gp_vertex_size="2"
-                       node_selected="#b6946f"
+                       node_selected="#ac8767"
                        node_active="#ed8b01"
                        wire="#464646"
                        wire_inner="#737373"
@@ -773,12 +773,12 @@
                        node_backdrop="#193042cc"
                        converter_node="#74477b"
                        color_node="#623e68"
-                       group_node="#8a6927"
+                       group_node="#6d4e00"
                        group_socket_node="#005d70"
                        frame_node="#19253da6"
                        matte_node="#977474"
                        distor_node="#648181"
-                       noodle_curving="6"
+                       noodle_curving="9"
                        input_node="#477b8a"
                        output_node="#4b1829"
                        filter_node="#5c3b3b"
