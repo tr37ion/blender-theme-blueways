@@ -106,15 +106,15 @@
           </ThemeWidgetColors>
         </wcol_numslider>
         <wcol_box>
-          <ThemeWidgetColors outline="#191d1f"
+          <ThemeWidgetColors outline="#0f1213"
                              inner="#192933ff"
                              inner_sel="#253f4eff"
                              item="#252b2eff"
                              text="#789aaf"
                              text_sel="#9bc3db"
                              show_shaded="TRUE"
-                             shadetop="-11"
-                             shadedown="4">
+                             shadetop="-13"
+                             shadedown="7">
           </ThemeWidgetColors>
         </wcol_box>
         <wcol_menu>
@@ -266,7 +266,7 @@
                    freestyle_edge_mark="#3ac63a"
                    face="#ff99001a"
                    face_select="#f4742140"
-                   face_dot="#00a3ff"
+                   face_dot="#ff8500"
                    facedot_size="3"
                    freestyle_face_mark="#4ace4a33"
                    nurb_uline="#909000"
@@ -373,7 +373,7 @@
                              button_title="#818e96"
                              button_text="#8fa5b2"
                              button_text_hi="#282f33"
-                             tab_active="#14181a"
+                             tab_active="#1b3f53"
                              tab_inactive="#14181a"
                              tab_back="#14181aff"
                              tab_outline="#14181a">
@@ -413,7 +413,7 @@
                              button_title="#8fa5b2"
                              button_text="#8fa5b2"
                              button_text_hi="#282f33"
-                             tab_active="#14181a"
+                             tab_active="#1b3f53"
                              tab_inactive="#14181a"
                              tab_back="#14181aff"
                              tab_outline="#14181a">
@@ -465,7 +465,7 @@
                              button_title="#8fa5b2"
                              button_text="#8fa5b2"
                              button_text_hi="#282f33"
-                             tab_active="#14181a"
+                             tab_active="#1b3f53"
                              tab_inactive="#14181a"
                              tab_back="#14181aff"
                              tab_outline="#14181a">
@@ -523,7 +523,7 @@
                              button_title="#8fa5b2"
                              button_text="#8fa5b2"
                              button_text_hi="#282f33"
-                             tab_active="#14181a"
+                             tab_active="#1b3f53"
                              tab_inactive="#14181a"
                              tab_back="#14181aff"
                              tab_outline="#14181a">
@@ -598,7 +598,7 @@
                              button_title="#8fa5b2"
                              button_text="#8faab2"
                              button_text_hi="#282f33"
-                             tab_active="#14181a"
+                             tab_active="#1b3f53"
                              tab_inactive="#14181a"
                              tab_back="#14181aff"
                              tab_outline="#14181a">
@@ -645,7 +645,7 @@
                              button_title="#8fa5b2"
                              button_text="#8fa5b2"
                              button_text_hi="#282f33"
-                             tab_active="#14181a"
+                             tab_active="#1b3f53"
                              tab_inactive="#14181a"
                              tab_back="#14181aff"
                              tab_outline="#14181a">
@@ -674,7 +674,7 @@
                              button_title="#8fa5b2"
                              button_text="#8fa5b2"
                              button_text_hi="#282f33"
-                             tab_active="#14181a"
+                             tab_active="#1b3f53"
                              tab_inactive="#14181a"
                              tab_back="#14181aff"
                              tab_outline="#14181a">
@@ -713,7 +713,7 @@
                              button_title="#8fa5b2"
                              button_text="#8faab2"
                              button_text_hi="#282f33"
-                             tab_active="#14181a"
+                             tab_active="#1b3f53"
                              tab_inactive="#14181a"
                              tab_back="#14181aff"
                              tab_outline="#14181a">
@@ -770,7 +770,7 @@
                        wire_inner="#737373"
                        wire_select="#ed8b01"
                        selected_text="#7bd4ed"
-                       node_backdrop="#193442ff"
+                       node_backdrop="#193442cc"
                        converter_node="#74477b"
                        color_node="#623e68"
                        group_node="#8a6927"
@@ -800,7 +800,7 @@
                              button_title="#8fa5b2"
                              button_text="#8fa5b2"
                              button_text_hi="#282f33"
-                             tab_active="#14181a"
+                             tab_active="#1b3f53"
                              tab_inactive="#14181a"
                              tab_back="#14181aff"
                              tab_outline="#14181a">
@@ -836,7 +836,7 @@
                              button_title="#8fa5b2"
                              button_text="#8fa5b2"
                              button_text_hi="#282f33"
-                             tab_active="#14181a"
+                             tab_active="#1b3f53"
                              tab_inactive="#14181a"
                              tab_back="#14181aff"
                              tab_outline="#14181a">
@@ -866,7 +866,7 @@
                              button_title="#8fa5b2"
                              button_text="#8fa5b2"
                              button_text_hi="#282f33"
-                             tab_active="#14181a"
+                             tab_active="#1b3f53"
                              tab_inactive="#14181a"
                              tab_back="#14181aff"
                              tab_outline="#14181a">
@@ -904,7 +904,7 @@
                              button_title="#8fa5b2"
                              button_text="#8fa5b2"
                              button_text_hi="#282f33"
-                             tab_active="#14181a"
+                             tab_active="#1b3f53"
                              tab_inactive="#14181a"
                              tab_back="#14181aff"
                              tab_outline="#14181a">
@@ -933,7 +933,7 @@
                              button_title="#8fa5b2"
                              button_text="#8fa5b2"
                              button_text_hi="#282f33"
-                             tab_active="#14181a"
+                             tab_active="#1b3f53"
                              tab_inactive="#14181a"
                              tab_back="#14181aff"
                              tab_outline="#14181a">
@@ -967,7 +967,7 @@
                              button_title="#8fa5b2"
                              button_text="#8fa5b2"
                              button_text_hi="#282f33"
-                             tab_active="#14181a"
+                             tab_active="#1b3f53"
                              tab_inactive="#14181a"
                              tab_back="#14181aff"
                              tab_outline="#14181a">
@@ -989,7 +989,7 @@
                        marker_outline="#464646"
                        marker="#76243b"
                        active_marker="#8faab2"
-                       selected_marker="#d5ff00"
+                       selected_marker="#bdff00"
                        disabled_marker="#7f0000"
                        locked_marker="#7f7f7f"
                        path_before="#ff5100"
@@ -1000,12 +1000,12 @@
                        handle_free="#0f5223"
                        handle_auto="#1eac4b"
                        handle_align="#803060"
-                       handle_sel_free="#0a0604"
+                       handle_sel_free="#472a1d"
                        handle_sel_auto="#f0ff40"
                        handle_sel_align="#f090a0"
-                       handle_auto_clamped="#0a0604"
-                       handle_sel_auto_clamped="#0a0604"
-                       handle_vertex="#0a0604"
+                       handle_auto_clamped="#553421"
+                       handle_sel_auto_clamped="#3b4b1d"
+                       handle_vertex="#7a3434"
                        handle_vertex_select="#ffff00"
                        handle_vertex_size="4">
         <space>
@@ -1020,7 +1020,7 @@
                              button_title="#8faab2"
                              button_text="#8fa5b2"
                              button_text_hi="#282f33"
-                             tab_active="#14181a"
+                             tab_active="#1b3f53"
                              tab_inactive="#14181a"
                              tab_back="#14181aff"
                              tab_outline="#14181a">
