@@ -14,4 +14,5 @@ The font is: *Roboto Medium*.
 2. Open Blender *User Settings* with **Ctrl+Alt+U**
 3. Press the **Install Theme** button down below and select **Blueways.xml** file
 
-[snip]:http://storage4.static.itmages.com/i/15/0701/h_1435710769_4481353_2aa7946cc0.png
+[snip]:http://storage3.static.itmages.com/i/15/0701/h_1435714127_3792517_d9611e384b.png
+
