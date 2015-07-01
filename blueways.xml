@@ -692,7 +692,7 @@
     <text_editor>
       <ThemeTextEditor line_numbers_background="#12181b"
                        selected_text="#552b2b"
-                       cursor="#6b0011"
+                       cursor="#3fb2ff"
                        syntax_builtin="#c32900"
                        syntax_symbols="#f67400"
                        syntax_special="#33a500"
