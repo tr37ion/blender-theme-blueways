@@ -769,7 +769,7 @@
                        wire="#464646"
                        wire_inner="#737373"
                        wire_select="#ed8b01"
-                       selected_text="#7bd4ed"
+                       selected_text="#85e9ff"
                        node_backdrop="#193442cc"
                        converter_node="#74477b"
                        color_node="#623e68"
@@ -777,7 +777,7 @@
                        group_socket_node="#005d70"
                        frame_node="#19253da6"
                        matte_node="#977474"
-                       distor_node="#749797"
+                       distor_node="#648181"
                        noodle_curving="6"
                        input_node="#477b8a"
                        output_node="#4b1829"
@@ -786,7 +786,7 @@
                        texture_node="#4f7231"
                        shader_node="#58666d"
                        script_node="#7f7f7f"
-                       pattern_node="#000000"
+                       pattern_node="#424242"
                        layout_node="#74b771">
         <space>
           <ThemeSpaceGeneric back="#14181a"
