@@ -1,7 +1,7 @@
 <bpy>
   <Theme>
     <user_interface>
-      <ThemeUserInterface menu_shadow_fac="0.504041"
+      <ThemeUserInterface menu_shadow_fac="0.5"
                           menu_shadow_width="12"
                           icon_file=""
                           icon_alpha="1"
@@ -34,14 +34,14 @@
           </ThemeWidgetColors>
         </wcol_tool>
         <wcol_radio>
-          <ThemeWidgetColors outline="#132020"
+          <ThemeWidgetColors outline="#131b20"
                              inner="#253f4eff"
                              inner_sel="#3b657dff"
                              item="#9ebcc5ff"
                              text="#789aaf"
                              text_sel="#9bc3db"
                              show_shaded="TRUE"
-                             shadetop="-23"
+                             shadetop="-22"
                              shadedown="-42">
           </ThemeWidgetColors>
         </wcol_radio>
@@ -60,13 +60,13 @@
         <wcol_option>
           <ThemeWidgetColors outline="#0f1213"
                              inner="#253f4eff"
-                             inner_sel="#3b657dff"
+                             inner_sel="#253f4eff"
                              item="#9ebcc5ff"
                              text="#789aaf"
                              text_sel="#9bc3db"
                              show_shaded="TRUE"
-                             shadetop="-53"
-                             shadedown="7">
+                             shadetop="-57"
+                             shadedown="4">
           </ThemeWidgetColors>
         </wcol_option>
         <wcol_toggle>
@@ -101,8 +101,8 @@
                              text="#789aaf"
                              text_sel="#9bc3db"
                              show_shaded="TRUE"
-                             shadetop="-77"
-                             shadedown="-33">
+                             shadetop="-76"
+                             shadedown="-52">
           </ThemeWidgetColors>
         </wcol_numslider>
         <wcol_box>
@@ -142,10 +142,10 @@
           </ThemeWidgetColors>
         </wcol_pulldown>
         <wcol_menu_back>
-          <ThemeWidgetColors outline="#49535a"
+          <ThemeWidgetColors outline="#213f4b"
                              inner="#191d1fff"
                              inner_sel="#191d1fff"
-                             item="#49535a4d"
+                             item="#303a3d4d"
                              text="#789aaf"
                              text_sel="#9bc3db"
                              show_shaded="FALSE"
@@ -986,9 +986,9 @@
       <ThemeClipEditor gp_vertex="#8b2c46"
                        gp_vertex_select="#9b4f65"
                        gp_vertex_size="2"
-                       marker_outline="#464646"
+                       marker_outline="#3e494c"
                        marker="#76243b"
-                       active_marker="#8faab2"
+                       active_marker="#8fa5b2"
                        selected_marker="#d5ff00"
                        disabled_marker="#7f0000"
                        locked_marker="#7f7f7f"
@@ -1000,12 +1000,12 @@
                        handle_free="#0f5223"
                        handle_auto="#1eac4b"
                        handle_align="#803060"
-                       handle_sel_free="#0a0604"
+                       handle_sel_free="#492c1d"
                        handle_sel_auto="#f0ff40"
                        handle_sel_align="#f090a0"
-                       handle_auto_clamped="#0a0604"
-                       handle_sel_auto_clamped="#0a0604"
-                       handle_vertex="#0a0604"
+                       handle_auto_clamped="#230f44"
+                       handle_sel_auto_clamped="#40501f"
+                       handle_vertex="#362116"
                        handle_vertex_select="#ffff00"
                        handle_vertex_size="4">
         <space>
@@ -1034,7 +1034,7 @@
           </ThemeSpaceGeneric>
         </space>
         <space_list>
-          <ThemeSpaceListGeneric list="#282f33"
+          <ThemeSpaceListGeneric list="#222527"
                                  list_title="#56636b"
                                  list_text="#8fa5b2"
                                  list_text_hi="#8fa5b2">
