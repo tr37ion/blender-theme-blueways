@@ -60,12 +60,12 @@
         <wcol_option>
           <ThemeWidgetColors outline="#0f1213"
                              inner="#253f4eff"
-                             inner_sel="#3b657dff"
+                             inner_sel="#253f4eff"
                              item="#9ebcc5ff"
                              text="#789aaf"
                              text_sel="#9bc3db"
                              show_shaded="TRUE"
-                             shadetop="-53"
+                             shadetop="-50"
                              shadedown="7">
           </ThemeWidgetColors>
         </wcol_option>
