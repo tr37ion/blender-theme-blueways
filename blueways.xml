@@ -698,7 +698,7 @@
                        syntax_special="#ff007a"
                        syntax_preprocessor="#c9c9c9"
                        syntax_reserved="#8f0088"
-                       syntax_comment="#6f513f"
+                       syntax_comment="#7f5d48"
                        syntax_string="#00bdff"
                        syntax_numbers="#ef6d00">
         <space>
