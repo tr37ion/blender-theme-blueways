@@ -691,16 +691,16 @@
     </properties>
     <text_editor>
       <ThemeTextEditor line_numbers_background="#12181b"
-                       selected_text="#552b2b"
-                       cursor="#3fb2ff"
+                       selected_text="#4d1f06"
+                       cursor="#ff2000"
                        syntax_builtin="#009fff"
-                       syntax_symbols="#f65200"
-                       syntax_special="#1bdc00"
+                       syntax_symbols="#ffd700"
+                       syntax_special="#ff007a"
                        syntax_preprocessor="#c9c9c9"
                        syntax_reserved="#8f0088"
-                       syntax_comment="#a07961"
-                       syntax_string="#e961f5"
-                       syntax_numbers="#ffd100">
+                       syntax_comment="#6f513f"
+                       syntax_string="#00bdff"
+                       syntax_numbers="#ef6d00">
         <space>
           <ThemeSpaceGeneric back="#14181a"
                              title="#8fa5b2"
