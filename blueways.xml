@@ -228,8 +228,8 @@
         <wcol_state>
           <ThemeWidgetStateColors inner_anim="#386222"
                                   inner_anim_sel="#749932"
-                                  inner_key="#0d485d"
-                                  inner_key_sel="#107399"
+                                  inner_key="#105c77"
+                                  inner_key_sel="#159ccf"
                                   inner_driven="#58154d"
                                   inner_driven_sel="#862074"
                                   blend="0.1">
