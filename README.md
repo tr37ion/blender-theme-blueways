@@ -3,7 +3,7 @@
 This is the Blender UI theme **Blueways**.
 
 ![][snip]
-The font is: *Roboto Medium*.
+The font shown in the screenshot is: *Roboto Medium*. Nowadays, I would recommmend *Fira Sans Medium* (Mozilla) as it is compact and better readable with a small font size. 
 
 ## Installation
 
