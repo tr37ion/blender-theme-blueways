@@ -239,27 +239,28 @@
     </user_interface>
     <view_3d>
       <ThemeView3D grid="#121d22"
-                   wire="#314858"
+                   clipping_border_3d="#393939ff"
+                   wire="#00638a"
                    wire_edit="#4d6371"
                    gp_vertex="#3f3f3f"
                    gp_vertex_select="#50681a"
                    gp_vertex_size="3"
-                   lamp="#00978d28"
-                   speaker="#3f647a"
-                   camera="#337066"
-                   view_overlay="#c2004a"
-                   empty="#434164"
+                   text_grease_pencil="#b5e61d"
                    object_selected="#1982c9"
                    object_active="#ff9900"
-                   object_grouped="#0e610e"
-                   object_grouped_active="#3ab93a"
-                   transform="#778492"
+                   object_grouped="#102d61"
+                   object_grouped_active="#3a5fb9"
+                   text_keyframe="#ddd700"
+                   camera="#337066"
+                   empty="#434164"
+                   lamp="#00978d28"
+                   speaker="#3f647a"
                    vertex="#dd23dd"
                    vertex_select="#ffbb00"
                    vertex_size="3"
                    vertex_unreferenced="#4e002a"
                    edge_select="#e78b00"
-                   edge_seam="#a63100"
+                   edge_seam="#41b000"
                    edge_sharp="#67b0c7"
                    edge_crease="#ce8d2c"
                    edge_facesel="#50899b"
@@ -277,31 +278,32 @@
                    handle_free="#a5ca00"
                    handle_auto="#00c59a"
                    handle_vect="#3d8b2f"
-                   handle_sel_vect="#82be35"
+                   handle_sel_vect="#9de541"
                    handle_align="#93237f"
                    handle_sel_free="#f47421"
                    handle_sel_auto="#f47421"
                    handle_sel_align="#af5317"
                    lastsel_point="#00b0b8"
                    extra_edge_len="#490000"
-                   extra_edge_angle="#283750"
+                   extra_edge_angle="#3f557c"
                    extra_face_angle="#003800"
                    extra_face_area="#7083a5"
                    editmesh_active="#ffc8006e"
-                   normal="#0e6585"
+                   normal="#0f6f92"
                    vertex_normal="#499cb9"
                    split_normal="#dd23dd"
-                   bone_solid="#6786c7"
-                   bone_pose="#50bdff"
-                   bone_pose_active="#a6ffff"
-                   frame_current="#3ac63a"
-                   outline_width="2"
+                   bone_pose="#12884a"
+                   bone_pose_active="#04ff00"
+                   bone_solid="#604d92"
                    bundle_solid="#67a1c7"
                    camera_path="#406100"
                    skin_root="#4c3526"
-                   clipping_border_3d="#313131ff"
+                   view_overlay="#c2004a"
+                   transform="#778492"
+                   frame_current="#3ac63a"
                    paint_curve_handle="#7fff7f7f"
-                   paint_curve_pivot="#ff7f7f7f">
+                   paint_curve_pivot="#ff7f7f7f"
+                   outline_width="2">
         <space>
           <ThemeSpaceGradient title="#282f33"
                               text="#8fa5b2"
@@ -396,11 +398,7 @@
       </ThemeGraphEditor>
     </graph_editor>
     <file_browser>
-      <ThemeFileBrowser selected_file="#572017"
-                        scrollbar="#56636b"
-                        scroll_handle="#56636b"
-                        active_file="#8fa5b2"
-                        active_file_text="#8fa5b2">
+      <ThemeFileBrowser selected_file="#572017">
         <space>
           <ThemeSpaceGeneric back="#14181a"
                              title="#8fa5b2"
@@ -426,13 +424,6 @@
             </panelcolors>
           </ThemeSpaceGeneric>
         </space>
-        <space_list>
-          <ThemeSpaceListGeneric list="#282f33"
-                                 list_title="#56636b"
-                                 list_text="#56636b"
-                                 list_text_hi="#8fa5b2">
-          </ThemeSpaceListGeneric>
-        </space_list>
       </ThemeFileBrowser>
     </file_browser>
     <nla_editor>
@@ -510,6 +501,7 @@
                       keyframe_jitter_selected="#61c042"
                       keyframe_border="#000000ff"
                       keyframe_border_selected="#ff8b32ff"
+                      keyframe_scale_factor="1"
                       summary="#732b0089">
         <space>
           <ThemeSpaceGeneric back="#14181a"
@@ -627,6 +619,7 @@
                            effect_strip="#a9547c"
                            transition_strip="#a29832"
                            meta_strip="#5e868d"
+                           text_strip="#a29700"
                            frame_current="#700a0a"
                            keyframe="#f47421"
                            draw_action="#2c6fa4"
